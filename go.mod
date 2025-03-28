@@ -11,7 +11,7 @@ require (
 	github.com/pkg/errors v0.9.1
 	github.com/rs/zerolog v1.30.0
 	github.com/sergi/go-diff v1.3.1
-	github.com/stretchr/testify v1.8.4
+	github.com/stretchr/testify v1.10.0
 	goji.io v2.0.2+incompatible
 	golang.org/x/oauth2 v0.11.0
 	golang.org/x/sync v0.3.0
