@@ -1,6 +1,8 @@
 module github.com/cilium/github-actions
 
-go 1.21
+go 1.23.0
+
+toolchain go1.24.1
 
 require (
 	github.com/bndr/gojenkins v1.1.0
@@ -13,7 +15,7 @@ require (
 	github.com/sergi/go-diff v1.3.1
 	github.com/stretchr/testify v1.8.4
 	goji.io v2.0.2+incompatible
-	golang.org/x/oauth2 v0.11.0
+	golang.org/x/oauth2 v0.28.0
 	golang.org/x/sync v0.3.0
 	gopkg.in/yaml.v2 v2.4.0
 )
