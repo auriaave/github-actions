@@ -9,7 +9,7 @@ require (
 	github.com/palantir/go-baseapp v0.5.2
 	github.com/palantir/go-githubapp v0.18.0
 	github.com/pkg/errors v0.9.1
-	github.com/rs/zerolog v1.30.0
+	github.com/rs/zerolog v1.34.0
 	github.com/sergi/go-diff v1.3.1
 	github.com/stretchr/testify v1.8.4
 	goji.io v2.0.2+incompatible
@@ -33,12 +33,12 @@ require (
 	github.com/patrickmn/go-cache v2.1.0+incompatible // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	github.com/rcrowley/go-metrics v0.0.0-20201227073835-cf1acfcdf475 // indirect
-	github.com/rs/xid v1.5.0 // indirect
+	github.com/rs/xid v1.6.0 // indirect
 	github.com/shurcooL/githubv4 v0.0.0-20230704064427-599ae7bbf278 // indirect
 	github.com/shurcooL/graphql v0.0.0-20230722043721-ed46e5a46466 // indirect
 	golang.org/x/crypto v0.12.0 // indirect
 	golang.org/x/net v0.14.0 // indirect
-	golang.org/x/sys v0.11.0 // indirect
+	golang.org/x/sys v0.12.0 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
 	google.golang.org/protobuf v1.31.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
