@@ -1,10 +1,13 @@
 module github.com/cilium/github-actions
 
-go 1.21
+go 1.23.0
+
+toolchain go1.24.1
 
 require (
 	github.com/bndr/gojenkins v1.1.0
 	github.com/google/go-github/v53 v53.2.0
+	github.com/google/go-github/v70 v70.0.0
 	github.com/gregjones/httpcache v0.0.0-20190611155906-901d90724c79
 	github.com/palantir/go-baseapp v0.5.2
 	github.com/palantir/go-githubapp v0.18.0
